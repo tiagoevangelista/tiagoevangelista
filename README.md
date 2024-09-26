@@ -12,7 +12,7 @@ Sou o Tiago, tenho 28 anos e nos últimos 5 tenho atuado como líder de desenvol
 
 &nbsp;
 
-## 🚀 Minhas principais habilitades
+## 🚀 Minhas principais habilidades
 
 ![dotNET](https://img.shields.io/badge/.NET-white?logo=dotnet&&logoColor=512BD4&style=for-the-badge&color=512BD4&labelColor=222222)
 ![Javascript](https://img.shields.io/badge/Javascript-white?logo=javascript&style=for-the-badge&color=F7DF1E&labelColor=222222)
